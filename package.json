@@ -1,0 +1,16 @@
+{
+  "name": "printful_lambda",
+  "version": "1.0.0",
+  "description": "lambda function",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "lambda",
+    "c8k"
+  ],
+  "author": "Khaled Abouseada",
+  "license": "ISC",
+  "dependencies": {}
+}
